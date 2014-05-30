@@ -42,6 +42,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Bartosz Lewczuk](https://github.com/bmlewczuk/Programowanie).
    [Prezentacja](http://slides.com/bmlewczuk/starwars).
 1. [Tomasz Piasecki.](https://github.com/piasecki/wszechswiat/blob/master/wielkosc_i_struktura.md)
+2. [moja strona](http://piasecki.github.io/aa)
    [Prezentacja](http://slides.com/tomaszpiasecki/rajskie-miejsca-na-ziemi)
 1. [Paweł Rogoziński](https://github.com/pawelr/zaliczenie).
    [Gdańsk](http://slides.com/pawelr/gdansk).[Strona www](http://pawelr.github.io/).
