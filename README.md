@@ -41,6 +41,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Wyspy Owcze](http://slides.com/krulica/wyspy-owcze).
 1. [Bartosz Lewczuk](https://github.com/bmlewczuk/Programowanie).
    [Prezentacja](http://slides.com/bmlewczuk/starwars).
+   [Strona](http://bmlewczuk.github.io/).
 1. [Tomasz Piasecki.](https://github.com/piasecki/wszechswiat/blob/master/wielkosc_i_struktura.md).
    [Moja strona](http://piasecki.github.io/aa),
    [Prezentacja](http://slides.com/tomaszpiasecki/rajskie-miejsca-na-ziemi)
