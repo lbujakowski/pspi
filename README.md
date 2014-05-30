@@ -39,7 +39,8 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Anna Król-Lewczuk](https://github.com/krulica/kruliczynotes).
    [Moja strona internetowa](http://krulica.github.io/),
    [Wyspy Owcze](http://slides.com/krulica/wyspy-owcze).
-1. Bartosz Lewczuk.
+1. [Bartosz Lewczuk](https://github.com/bmlewczuk/Programowanie).
+   [Prezentacja](http://slides.com/bmlewczuk/starwars).
 1. [Tomasz Piasecki.](https://github.com/piasecki/wszechswiat/blob/master/wielkosc_i_struktura.md)
    [Prezentacja](http://slides.com/tomaszpiasecki/rajskie-miejsca-na-ziemi)
 1. [Paweł Rogoziński](https://github.com/pawelr/zaliczenie).
