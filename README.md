@@ -9,6 +9,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Łukasz Bujakowski](https://github.com/lbujakowski/Nauka).
    [Prezentacja](http://slides.com/lbujakowski/prezentacja),
    [Moja Strona Internetowa](http://jsbin.com/sugiqapu/1).
+   [Strona GitHUb](http://lbujakowski.github.io/)
 1. Emilia Ćwiek. 
    [Prezentacja](http://slides.com/emila1104/ksi), 
    [Książki](https://github.com/ecwiek/ksiazki-obrazkowe).
